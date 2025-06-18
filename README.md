@@ -1,0 +1,2 @@
+# gmcamaze
+Privacy Policy
